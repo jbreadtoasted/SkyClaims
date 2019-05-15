@@ -31,6 +31,7 @@ import ninja.leaping.configurate.commented.SimpleCommentedConfigurationNode;
 import ninja.leaping.configurate.loader.ConfigurationLoader;
 import ninja.leaping.configurate.objectmapping.ObjectMapper;
 import ninja.leaping.configurate.objectmapping.ObjectMappingException;
+import org.spongepowered.api.world.schematic.Schematic;
 import org.slf4j.Logger;
 
 public class ConfigManager {
